@@ -5,7 +5,7 @@
 | Name | Role |
 |------|------|
 | Keshav Harit | PM / AI / Frontend |
-| Shahriar Fahim | Hardware / ESP32 |
+| Shahriar Fahim | Hardware / ESP32 / Backend |
 | Gelin Deng | QA / Database |
 
 ## Hardware
